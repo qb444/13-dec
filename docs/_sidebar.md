@@ -2,5 +2,5 @@
     - [About this project](about-proect.md)
     - Indented
     
- # Additioanl Inforamtion
+ # Additional Inforamtion
     - [Readme](README.MD)
